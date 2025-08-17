@@ -1,2 +1,1 @@
-# fairness-finance-demos
-Fairness in Finance: German Credit &amp; Adult Income Dataset Demos
+"# Fairness in Finance: German Credit & Adult Income Dataset Demos" 
