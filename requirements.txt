@@ -1,2 +1,5 @@
 pandas 
 fairlearn 
+scikit-learn
+matplotlib
+seaborn
