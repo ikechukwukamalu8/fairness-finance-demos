@@ -1,4 +1,4 @@
-"# Fairness in Finance: German Credit \& Adult Income Dataset Demos"
+﻿"# Fairness in Finance: German Credit \& Adult Income Dataset Demos"
 
 
 
@@ -93,7 +93,6 @@ Author
 📧 ikechukwukamalu8@gmail.com
 
 🔗 https://github.com/ikechukwukamalu8
-
 
 
 
