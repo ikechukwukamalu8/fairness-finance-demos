@@ -29,7 +29,7 @@ fairness-finance-demos/
 ```
 ## Requirements
 
-### Environment & Package Installation
+# Environment & Package Installation
 
 pip install -r requirements.txt
 
