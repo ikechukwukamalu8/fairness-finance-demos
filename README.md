@@ -26,10 +26,11 @@ fairness-finance-demos/
 └── adult_income/            # Notebooks for Adult Income dataset
     └── demo_adult_income.ipynb
 
+```
 ## Requirements
 
 ### Environment & Package Installation
-```bash
+
 pip install -r requirements.txt
 
 ### Tools & Libraries
