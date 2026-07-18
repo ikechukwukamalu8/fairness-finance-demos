@@ -1,101 +1,49 @@
-﻿"# Fairness in Finance: German Credit \& Adult Income Dataset Demos"
-
-
+# Fairness in Finance: German Credit & Adult Income Dataset Demos
 
 This repository contains fairness-aware machine learning demonstrations using two well-known financial datasets:
 
+- **German Credit Dataset** – predicting credit risk while ensuring fairness across groups.
+- **Adult Income Dataset** – predicting income categories with fairness considerations.
 
+## Objectives
 
-\- \*\*German Credit Dataset\*\* – predicting credit risk while ensuring fairness across groups.
+- Demonstrate bias detection in financial machine learning models.
+- Apply fairness-aware algorithms (using `fairlearn`).
+- Compare performance vs. fairness trade-offs.
+- Provide reproducible Jupyter Notebook demos for learning and teaching.
 
-\- \*\*Adult Income Dataset\*\* – predicting income categories with fairness considerations.
+## Repository Structure
 
-
-
-\## Objectives
-
-
-
-\- Demonstrate bias detection in financial machine learning models.
-
-\- Apply fairness-aware algorithms (using fairlearn).
-
-\- Compare performance vs. fairness trade-offs.
-
-\- Provide reproducible Jupyter Notebook demos for learning and teaching.
-
-
-
-\## Repository Structure
-
-
-
+```text
 fairness-finance-demos/
-
 │
-
-├── README.md # Project documentation
-
-├── requirements.txt # Dependencies (pandas, scikit-learn, fairlearn, etc.)
-
+├── README.md                # Project documentation
+├── requirements.txt         # Dependencies (pandas, scikit-learn, fairlearn, etc.)
 │
-
-├── german\_credit/ # Notebooks for German Credit dataset
-
-│ └── demo\_german\_credit.ipynb
-
+├── german_credit/           # Notebooks for German Credit dataset
+│   └── demo_german_credit.ipynb
 │
+└── adult_income/            # Notebooks for Adult Income dataset
+    └── demo_adult_income.ipynb
 
-└── adult\_income/ # Notebooks for Adult Income dataset
+## Requirements
 
-└── demo\_adult\_income.ipynb
-
-
-
-
-
-\## Requirements
-
-
-
+### Environment & Package Installation
 ```bash
-
 pip install -r requirements.txt
 
+### Tools & Libraries
 
+* **Python:** 3.8+
+* **Data Science & ML:** `pandas`, `scikit-learn`
+* **Fairness Toolkit:** `fairlearn`
+* **Visualization:** `matplotlib`, `seaborn`
 
-Tools \& Libraries
+---
 
+### Author
 
-
-Python 3.8+
-
-
-
-pandas, scikit-learn
-
-
-
-fairlearn
-
-
-
-matplotlib, seaborn
-
-
-
-Author
-
-
-
-👤 Ikechukwu Okechi Kamalu
-
-📧 ikechukwukamalu8@gmail.com
-
-🔗 https://github.com/ikechukwukamalu8
-
-
-
-
-
+* **Name:** 👤 Ikechukwu Okechi Kamalu
+* **Email:** 📧 [ikechukwukamalu8@gmail.com](mailto:ikechukwukamalu8@gmail.com)
+* **GitHub:** 🔗 [GitHub Profile](https://github.com/ikechukwukamalu8)
 
